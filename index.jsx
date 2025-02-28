@@ -41,11 +41,11 @@ const Table = class extends React.Component {
     return (
       <a
         href={
-          "https://twitter.com/intent/tweet?button_hashtag=GitHubAzureDevOpsSpeedTest&text=My%20nearest%20%23AzureDevOps%20%23GitHub%20is%20" +
+          "https://twitter.com/intent/tweet?button_hashtag=AzureDatabricksSpeedTest&text=My%20nearest%20%23AzureDatabricks%20is%20" +
           item.name +
           "%20(" +
           Math.round(item.average) +
-          "ms).+Find+out+yours+https%3A%2F%2Fazure4devops.com%2FGithubAzureDevOpsSpeedTest%2F+#GitHubAzureDevOpsSpeedTest"
+          "ms).+Find+out+yours+https%3A%2F%2Fazure4devops.com%2FAzureDatabricksSpeedTest%2F+#AzureDatabricksSpeedTest"
         }
         className="btn btn-primary btn-large"
         data-size="large"
@@ -142,12 +142,12 @@ const Table = class extends React.Component {
         <p>
           Compare your speed with others by watching the{" "}
           <a href="https://twitter.com/search?q=%23AzureSpeedTest&src=hash&mode=realtime">
-            #GitHubAzureDevOpsSpeedTest
+            #AzureDatabricksSpeedTest
           </a>{" "}
           hashtag.
         </p>
         <p>
-          <a href="https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest">
+          <a href="https://github.com/Azure4DevOps/AzureDatabricksSpeedTest">
             Fork
           </a>{" "}
           on GitHub.
@@ -173,8 +173,8 @@ const Table = class extends React.Component {
         <p>
           <small>
             The latency times are indicative only, and do not represent the
-            maxium performance, achievable from GitHub and Azure DevOps. Use
-            this website purely as a tool to gauge which Azure Data Center could
+            maxium performance, achievable from Azure Databricks. Use
+            this website purely as a tool to gauge which Azure Databricks Center could
             be the best for your location.
           </small>
         </p>
