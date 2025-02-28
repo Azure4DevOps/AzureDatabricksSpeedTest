@@ -1,11 +1,11 @@
-[![Node CI](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/nodejs.yml)
-[![Deploy static content to Pages](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/static.yml/badge.svg)](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/static.yml)
+[![Node CI](https://github.com/Azure4DevOps/AzureDatabricksSpeedTest/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/nodejs.yml)
+[![Deploy static content to Pages](https://github.com/Azure4DevOps/AzureDatabricksSpeedTest/actions/workflows/static.yml/badge.svg)](https://github.com/Azure4DevOps/GithubAzureDevOpsSpeedTest/actions/workflows/static.yml)
 
-# GitHub and Azure DevOps Speed Test
+# Azure Databricks Speed Test
 
-Measures the network latency between your browser and GitHub and each of the Azure DevOps region.
+Measures the network latency between your browser and Azure Databrick regions.
 
-https://azure4devops.com/GithubAzureDevOpsSpeedTest/
+https://azure4devops.com/AzureDatabricksSpeedTest/
 
 ## Building the UI
 
